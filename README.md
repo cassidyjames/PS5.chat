@@ -2,7 +2,7 @@
 
 Quick access to the web browser via PS5 chat
 
-- [DuckDuckGo Search](https://duckduckgo.com/&kp=1&t=elementary)
+- [DuckDuckGo Search](https://duckduckgo.com/?kae=d&kt=n&ks=t&k7=17181d&ko=s&ka=n&k18=1&t=elementary)
 - [YouTube](https://youtube.com)
 - [Twitter](https://twitter.com)
 
