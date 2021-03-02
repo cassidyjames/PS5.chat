@@ -28,28 +28,36 @@ body,
 }
 
 .markdown-body ul {
+  margin-top: 3em;
   padding: 0;
 }
 
 li {
   list-style: none;
+  font-size: 0;
 }
 
 a {
-  border: 1px solid var(--faint);
-  border-radius: 0.125em;
+  border: 1px solid transparent;
+  border-bottom-color: var(--faint);
   color: inherit;
   display: inline-block;
-  margin: 0.125em auto;
   padding: 0.67em 1em;
   transition: all 150ms ease;
   width: 100%;
 }
 
-a:hover,
-a:focus,
-a:active {
+li:last-child a {
+  border-bottom-color: transparent;
+}
+
+li:last-child a:hover {
+  border-bottom-color: var(--fg);
+}
+
+a:hover {
   background: var(--faint);
+  border-radius: 0.125em;
   border-color: var(--fg);
   text-decoration: none;
 }
