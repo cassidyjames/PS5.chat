@@ -1,6 +1,6 @@
 # ps5.chat
 
-Quick access to the web browser via PS5 chat
+Select **Options** →  **Pin to Side** to keep pinned. Use the **PS** button to switch away.
 
 - [DuckDuckGo Search](https://duckduckgo.com/?kae=d&kt=n&ks=t&k7=17181d&ko=s&ka=n&k18=1&t=elementary)
 - [YouTube](https://youtube.com)
