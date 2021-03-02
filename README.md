@@ -11,12 +11,13 @@ Quick access to the web browser via PS5 chat
 html,
 body,
 * {
-  background-color: #333;
+  background-color: #113;
   color: white;
+  font-size: 2rem;
+  font-weight: 100;
 }
 
 a {
   color: inherit;
-  font-weight: bold;
 }
 </style>
