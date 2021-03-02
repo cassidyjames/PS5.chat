@@ -1,6 +1,6 @@
 # ps5.chat
 
-Select **Options** →  **Pin to Side** to keep pinned. Use the **PS** button to switch away instead of ○, which sometimes goes back.
+Select **Options** →  **Pin to Side** to keep pinned. Use the **PS** button to switch away instead of **○**, which sometimes goes back.
 
 - [DuckDuckGo Search](https://duckduckgo.com/?kae=d&kt=n&ks=t&k7=17181d&ko=s&ka=n&k18=1&t=elementary)
 - [Twitter](https://twitter.com)
@@ -13,7 +13,7 @@ DRM is not enabled, so music streaming services (e.g. YouTube Music) won't work.
 
 Settings can be found in the PS5 **Settings** → **System** → **Web Browser**.
 
-<small>△○❌□</small>
+<small>△○⨯□</small>
 
 <style>
 :root {
