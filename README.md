@@ -1,25 +1,32 @@
 # ps5.chat
 
-Select **Options** →  **Pin to Side** to keep pinned. Use the **PS** button to switch away.
+Select **Options** →  **Pin to Side** to keep pinned. Use the **PS** button to switch away instead of ⭕️, which sometimes goes back.
 
 - [DuckDuckGo Search](https://duckduckgo.com/?kae=d&kt=n&ks=t&k7=17181d&ko=s&ka=n&k18=1&t=elementary)
-- [YouTube](https://youtube.com)
 - [Twitter](https://twitter.com)
+- [YouTube](https://youtube.com)
+- [CassidyJames.com](https://cassidyjames.com)
+
+**More tips:**
+
+DRM is not enabled, so music streaming services (e.g. YouTube Music) won't work.
+
+Settings can be found in the PS5 **Settings** → **System** → **Web Browser**.
 
 <style>
 :root {
   --bg: #17181d;
   --fg: white;
   --faint: rgba(255, 255, 255, 0.1);
+  --font-size: 24px;
 }
 
 :root,
 html,
-body,
-* {
+body {
   background-color: var(--bg);
   color: var(--fg);
-  font-size: 24px;
+  font-size: var(--font-size);
   font-weight: 100;
 }
 
@@ -28,13 +35,16 @@ body,
 }
 
 .markdown-body ul {
-  margin-top: 3em;
+  margin: 3em auto;
   padding: 0;
 }
 
 li {
   list-style: none;
-  font-size: 0;
+}
+
+p {
+  font-size: var(--font-size);
 }
 
 a {
@@ -42,6 +52,7 @@ a {
   border-bottom-color: var(--faint);
   color: inherit;
   display: inline-block;
+  font-size: var(--font-size);
   padding: 0.67em 1em;
   transition: all 150ms ease;
   width: 100%;
