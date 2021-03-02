@@ -1,20 +1,22 @@
-# ps5.chat
+# PS5.chat
 
 <div class="not-ps" markdown="1">
-This site enables quick access to the built-in PlayStation 5 web browser. Just send a message to someone with [ps5.chat](https://ps5.chat) in it, and then you both can open the Internet browser from the message.
+This site enables quick access to the built-in PlayStation 5 web browser. Just send a message to someone with [PS5.chat](https://ps5.chat) in it, and then you both can open the Internet browser from the message.
 </div>
 
 <div class="ps-large" markdown="1">
 Select **Options** →  **Pin to Side** to keep pinned. Press ![PS](ps.svg) to switch away instead of _○_, which sometimes goes back.
 </div>
 
-<div class="ps-small" markdown="1">Press ![PS](ps.svg) and choose **Internet browser** to return to this window.
+<div class="ps-small" markdown="1">Press ![PS](ps.svg) and choose **Internet browser** to return to this screen.
 </div>
 
 - [DuckDuckGo Search](https://duckduckgo.com/?kae=d&kt=n&ks=t&k7=17181d&ko=s&ka=n&k18=1&t=elementary)
+- [E.ggTimer](https://e.ggtimer.com/)
+- [Twitch](https://twitch.tv)
 - [Twitter](https://twitter.com)
 - [YouTube](https://youtube.com)
-- [CassidyJames.com](https://cassidyjames.com)
+- [Donate](https://cassidyjames.com/pay)
 
 <!--
 - [Local Development](http://192.168.86.76:4000)
@@ -68,13 +70,13 @@ body {
   font-weight: bold;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 641px) {
   .ps-small {
     display: none;
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   .ps-large {
     display: none;
   }
