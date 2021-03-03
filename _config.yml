@@ -1,0 +1,9 @@
+title: PS5.chat
+description: Internet browser
+donate: https://cassidyjames.com/pay
+
+permalink: /blog/:title/
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
